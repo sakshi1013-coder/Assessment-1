@@ -1,6 +1,6 @@
 name = input("Enter your name: ")
-age = int(input("Enter your age: "))
+lastname =(input("Enter your age: "))
 
 
-user_info = "Hello, my name is {} and I am {} years old.".format(name, age)
+user_info = "Hello, my name is {} and I am {} years old.".format(name, lastname)
 print(user_info)
